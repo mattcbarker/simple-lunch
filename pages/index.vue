@@ -1,7 +1,6 @@
 <template>
   <div class="container">
     <div>
-      <logo />
       <h1 class="title">
         Simple-Lunch
       </h1>
@@ -34,7 +33,7 @@ export default {
 }
 
 .title {
-  font-family: 'Caveat', cursive;
+  font-family: 'Saira Extra Condensed', sans-serif;
   display: block;
   font-weight: 300;
   font-size: 100px;
