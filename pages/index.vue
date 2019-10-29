@@ -30,6 +30,8 @@ export default {
   justify-content: center;
   align-items: center;
   text-align: center;
+  background-image: radial-gradient(#efebeb, #aab5aa);
+}
 }
 
 .title {
