@@ -32,7 +32,6 @@ export default {
   text-align: center;
   background-image: radial-gradient(#efebeb, #aab5aa);
 }
-}
 
 .title {
   font-family: 'Saira Extra Condensed', sans-serif;
