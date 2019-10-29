@@ -13,7 +13,7 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Caveat&display=swap' }
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Saira+Extra+Condensed&display=swap' }
     ]
   },
   /*
